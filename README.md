@@ -19,3 +19,7 @@ This repository contains a Verilog implementation of the 74LS181 Arithmetic Logi
 ## References
 
 - This Verilog implementation of the 74LS181 ALU was developed with reference to the [Texas Instruments 74LS181 datasheet](https://www.ti.com/lit/ds/symlink/sn54ls181.pdf).
+
+## Function table from the datasheet
+
+![image](https://github.com/rickyrorton/Verilog_ALU/assets/74890659/d299e01d-79fa-4e03-9314-379023fd2419)
